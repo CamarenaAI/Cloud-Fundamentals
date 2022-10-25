@@ -29,4 +29,8 @@
 ###### In most situations, CI and CD is a huge improvement for products and teams of any sort.
 
 #### Benefits of continuous delivery
-
+- Empowering Teams: By nature our pipeline is a self-service system that makes the process of software delivery transparent and understandable to entire team
+- Lowered Cycle Times: This is the time from code commit to running in production. Using older methods this time was generally measured in weeks or months, Now it's measured in hours, or even minutes
+- Better Security: It might seem odd that security gets better if you are moving faster. It's tempting to think that it's important to go slower to do security
+- Rhythm of Practice: Removes stress from teams, both in development and operations. No longer release date's a stressful event
+- More Time to Be Productive: This goes hand in hand with the ability to deliver value faster as we discussed earlier. Organiations and teams doing Continuos Delivery find that they spend less time doing unplanned work or rework and more time adding new features
