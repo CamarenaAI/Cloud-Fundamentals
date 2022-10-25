@@ -37,8 +37,27 @@
 
 #### Build pipelines in practice
 ##### A build pipeline is your sequence of operations and the tools that perform them between your source code and your deployment system
-![DevOps-Img1](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?token=GHSAT0AAAAAAB2K6N2QG7KYGD5SMJBGV6XMY2YIGEQ "DevOps-Img1")
+![DevOps-Img1](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?token=GHSAT0AAAAAAB2K6N2QYJCWIHL5JMU2V57CY2YJE3A "DevOps-Img1")
 
+## 2. Build Your Own Pipeline
 #### Introduction our delivery pipeline
-![DevOps-Img2](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img2.png?token=GHSAT0AAAAAAB2K6N2RGONKJF7X5IK7LNNAY2YIVVA "DevOps-Img2")
+![DevOps-Img2](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img2.png?token=GHSAT0AAAAAAB2K6N2Q5YMCLX2SB7RYU2IWY2YJXBA "DevOps-Img2")
 ##### Note: No one's pipeline looks the same 
+
+#### Version control practices
+![DevOps-Version Control](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Version%20Control.png?token=GHSAT0AAAAAAB2K6N2QXOAXY4ZPJGRBIBLCY2YJVXQ "DevOps-Version Control")
+##### Version control contains all the source code for your project and maintains the current and historical state of the code. Version control needs to be used by all teams who tocuh the software
+##### Best practices for version control
+- Always use version control
+- Put in all in version control
+- Commit often
+- Use easy-to-understand commit messages
+- Don't commit broken code
+- Consider using a master branch approach
+- Developing off trunk or master generally offers better performance
+- Commit hooks enforce quality
+- Be careful with secrets
+###### Branch by Abstraction
+![DevOps-Branches](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Branches.png?token=GHSAT0AAAAAAB2K6N2RRDUY35F46HKP7MMIY2YJV2Q "DevOps-Branches")
+
+
