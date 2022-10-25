@@ -37,7 +37,7 @@
 
 #### Build pipelines in practice
 ##### A build pipeline is your sequence of operations and the tools that perform them between your source code and your deployment system
-![DevOps-Img1](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?token=GHSAT0AAAAAAB2K6N2QYJCWIHL5JMU2V57CY2YJE3A "DevOps-Img1")
+![DevOps-Img1](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?token=GHSAT0AAAAAAB2K6N2RD573LQKPIM46VRH6Y2YJZOQ "DevOps-Img1")
 
 ## 2. Build Your Own Pipeline
 #### Introduction our delivery pipeline
