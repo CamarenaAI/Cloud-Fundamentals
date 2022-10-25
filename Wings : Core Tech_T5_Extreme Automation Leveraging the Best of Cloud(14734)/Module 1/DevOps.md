@@ -17,7 +17,7 @@
 - Basic understanding of coded applications
 
 #### Following along with the demos
-[DevOps Foundations: Continuous Delivery/Continuous Integration][https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/following-along-with-the-demos?autoSkip=true&autoplay=true&resume=false&u=2154233]
+[DevOps Foundations: Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/following-along-with-the-demos?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 ## 1. Continuous Integration and Continuous Delivery
 #### DevOps core concept: CI/CD
@@ -34,3 +34,11 @@
 - Better Security: It might seem odd that security gets better if you are moving faster. It's tempting to think that it's important to go slower to do security
 - Rhythm of Practice: Removes stress from teams, both in development and operations. No longer release date's a stressful event
 - More Time to Be Productive: This goes hand in hand with the ability to deliver value faster as we discussed earlier. Organiations and teams doing Continuos Delivery find that they spend less time doing unplanned work or rework and more time adding new features
+
+#### Build pipelines in practice
+##### A build pipeline is your sequence of operations and the tools that perform them between your source code and your deployment system
+![DevOps-Img1](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?token=GHSAT0AAAAAAB2K6N2QG7KYGD5SMJBGV6XMY2YIGEQ "DevOps-Img1")
+
+#### Introduction our delivery pipeline
+![DevOps-Img2](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img2.png?token=GHSAT0AAAAAAB2K6N2RGONKJF7X5IK7LNNAY2YIVVA "DevOps-Img2")
+##### Note: No one's pipeline looks the same 
