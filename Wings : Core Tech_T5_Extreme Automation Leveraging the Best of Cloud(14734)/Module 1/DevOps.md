@@ -1,7 +1,7 @@
 # DevOps Foundations: Continuous Delivery/Continuous Integration
 
 ## Introduction
-### Wellcome
+### Welcome
 | Continuous Integration | Continuous Deployment |
 | --- | --- |
 | The practice of automatically building and unit testing an entire application frequently, ideally on every source code check-in| The practice of automatically deploying every build to production after it passes its automated test |
@@ -74,9 +74,6 @@ git show "commit ideas"
 vim README.md 
 git status
 git diff
-```
-
-``` 
 cat./hooks/git-pre-commit.hook
 make git-hooks
 git add.
@@ -84,3 +81,18 @@ git commit -m"adding more text to our README"
 git status
 git push
 ```
+
+#### Continuous integration systems
+- Open Source
+- Commercial (purchased)
+- CI as a service
+##### Continuous integration is a practice
+##### Several important principles and practices to consider when using a CI system
+- Start with a clean environment
+- Build to pass the coffe test
+##### A CI Culture
+- Run test locally before committing
+- Don't commit new code to broken builds
+- Don't leave the build broken
+- Don't remove test that fail
+##### Use notifications to update your build progress
