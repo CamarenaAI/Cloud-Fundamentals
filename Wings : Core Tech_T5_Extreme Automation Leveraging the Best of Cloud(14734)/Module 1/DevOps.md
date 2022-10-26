@@ -105,8 +105,13 @@ git push
 - Composability
 - Security
 - Shareability
+##### Plan Ahead
+- Packaging format(s)
+- Dependency managment
+- Artifact repo
 
 #### Artifacts in action with Nexus
+
 
 #### Testing and continuous delivery
 
