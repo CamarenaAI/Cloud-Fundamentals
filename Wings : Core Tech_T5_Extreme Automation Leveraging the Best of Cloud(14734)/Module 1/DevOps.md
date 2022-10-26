@@ -101,7 +101,10 @@ git push
 
 #### Build artifacts
 ##### Benefits of Artifacts
-
+- Reliability
+- Composability
+- Security
+- Shareability
 
 #### Artifacts in action with Nexus
 
