@@ -111,7 +111,10 @@ git push
 - Artifact repo
 
 #### Artifacts in action with Nexus
-
+- Nexus (2 and 3)
+- JFrog Artifactory
+- Apache Archiva
+- And many more, See https://binary-repositories-comparison-github.io
 
 #### Testing and continuous delivery
 
