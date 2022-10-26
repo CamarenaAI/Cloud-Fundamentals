@@ -117,6 +117,18 @@ git push
 - And many more, See https://binary-repositories-comparison-github.io
 
 #### Testing and continuous delivery
+##### Good Test
+- Are fast
+- Are reliable
+- Isolate failures for you
+####i# Types of testing
+- Unit testing: Performed at build time on a single unit of code and/or artifact without use of external dependencies or deployment 
+- Integration testing: Performed as your bring together pieces of your application and as it needs to use external dependencies
+Example tools: Abao/RAML and Serverspec 
+- UI testing: 
+- End-toend (E2E) testing: Performed to excercise the full flow of your application in the same way an end user would
+- Security testing: Performed to look for flaws in your code and runtime to prevent compromises ans leaking of data in production
+- Shift left: Move testing early as possible in the development process, ideally to the dev desktop
 
 #### Testing philosophy
 
