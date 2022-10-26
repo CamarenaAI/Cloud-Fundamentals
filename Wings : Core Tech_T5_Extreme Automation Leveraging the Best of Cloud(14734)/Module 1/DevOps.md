@@ -60,4 +60,27 @@
 ###### Branch by Abstraction
 ![DevOps-Branches](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Branches.png?token=GHSAT0AAAAAAB2K6N2RRDUY35F46HKP7MMIY2YJV2Q "DevOps-Branches")
 
+#### Version control in action with Git
+##### Note: Is necesary have a GitHub account and SSH keys
+##### In the command line let's clone our repo
+``` 
+git clone git@github.com:wickett//word-cloud-generator
+cd word-cloud-generator/
+git log
+git show "commit ideas"
+```
+###### I'll just change the project description in the readme. I'll open them to edit the readme file and type
+``` 
+vim README.md 
+git status
+git diff
+```
 
+``` 
+cat./hooks/git-pre-commit.hook
+make git-hooks
+git add.
+git commit -m"adding more text to our README"
+git status
+git push
+```
