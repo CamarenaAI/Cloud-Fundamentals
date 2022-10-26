@@ -96,3 +96,27 @@ git push
 - Don't leave the build broken
 - Don't remove test that fail
 ##### Use notifications to update your build progress
+
+#### CI in actions with Jenkins
+
+#### Build artifacts
+##### Benefits of Artifacts
+
+
+#### Artifacts in action with Nexus
+
+#### Testing and continuous delivery
+
+#### Testing philosophy
+
+#### Unit testing in action
+
+#### Application deploy and release
+
+#### Deployment in action with Chef
+
+#### Integration testing in action with Abao
+
+#### UI testing in action with Robot
+
+#### Security testing in action with gauntlt
