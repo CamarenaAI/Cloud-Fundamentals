@@ -37,15 +37,15 @@
 
 #### Build pipelines in practice
 ##### A build pipeline is your sequence of operations and the tools that perform them between your source code and your deployment system
-![DevOps-Img1](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?token=GHSAT0AAAAAAB2K6N2RD573LQKPIM46VRH6Y2YJZOQ "DevOps-Img1")
+![DevOps-Img1](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img1.png?raw=true)
 
 ## 2. Build Your Own Pipeline
 #### Introduction our delivery pipeline
-![DevOps-Img2](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img2.png?token=GHSAT0AAAAAAB2K6N2Q5YMCLX2SB7RYU2IWY2YJXBA "DevOps-Img2")
+![DevOps-Img2](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img2.png?raw=true)
 ##### Note: No one's pipeline looks the same 
 
 #### Version control practices
-![DevOps-Version Control](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Version%20Control.png?token=GHSAT0AAAAAAB2K6N2QXOAXY4ZPJGRBIBLCY2YJVXQ "DevOps-Version Control")
+![DevOps-Version Control](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Version%20Control.png?raw=true)
 ##### Version control contains all the source code for your project and maintains the current and historical state of the code. Version control needs to be used by all teams who tocuh the software
 ##### Best practices for version control
 - Always use version control
@@ -58,7 +58,7 @@
 - Commit hooks enforce quality
 - Be careful with secrets
 ###### Branch by Abstraction
-![DevOps-Branches](https://raw.githubusercontent.com/IsmaelCamna/WingsElevate-1/main/Wings%20%3A%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Branches.png?token=GHSAT0AAAAAAB2K6N2RRDUY35F46HKP7MMIY2YJV2Q "DevOps-Branches")
+![DevOps-Branches](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-Branches.png?raw=true)
 
 #### Version control in action with Git
 ##### Note: Is necesary have a GitHub account and SSH keys
@@ -115,12 +115,12 @@ git show "commit ideas"
 - Are fast
 - Are reliable
 - Isolate failures for you
-####i# Types of testing
-- Unit testing: Performed at build time on a single unit of code and/or artifact without use of external dependencies or deployment 
+##### Types of testing
+- Unit testing: Performed at build time on a single unit of code and/or artifact without use of external dependencies or deployment
+Example tools: JUnitX, XUnit, and Rspec
 - Integration testing: Performed as your bring together pieces of your application and as it needs to use external dependencies
 Example tools: Abao/RAML and Serverspec 
-- UI testing: 
-- End-toend (E2E) testing: Performed to excercise the full flow of your application in the same way an end user would
+- End-to-end (E2E) testing: Performed to excercise the full flow of your application in the same way an end user would
 - Security testing: Performed to look for flaws in your code and runtime to prevent compromises ans leaking of data in production
 - Shift left: Move testing early as possible in the development process, ideally to the dev desktop
 - Text fixture: A set objects used to run a test in a well-known environment
@@ -145,6 +145,23 @@ Example tools: Abao/RAML and Serverspec
 [Unit testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/unit-testing-in-action?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Application deploy and release
+##### Deploy with
+- The same artifact
+- The same way
+- The same (similar) environment
+- The same smoke tests
+##### Separate Deploy and Release
+- Blue/green deployments
+- Feature flag
+##### Dployment Options
+- Source pulls
+- CM systems
+- Orchestration Systems
+- Build 
+- And any more
+##### Product Update Deploys to Customer
+Debian Container -> Updated Server -> Rundeck Orchestration Server(Puppet Installation)
+![DevOps-img3(https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img3.png?raw=true)
 
 #### Deployment in action with Chef
 
