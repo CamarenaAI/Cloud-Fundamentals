@@ -70,17 +70,7 @@ git log
 git show "commit ideas"
 ```
 ###### I'll just change the project description in the readme. I'll open them to edit the readme file and type
-``` 
-vim README.md 
-git status
-git diff
-cat./hooks/git-pre-commit.hook
-make git-hooks
-git add.
-git commit -m"adding more text to our README"
-git status
-git push
-```
+[Version control in action with Git](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/version-control-in-action-with-git?autoplay=true&resume=false&u=2154233)
 
 #### Continuous integration systems
 - Open Source
@@ -98,6 +88,7 @@ git push
 ##### Use notifications to update your build progress
 
 #### CI in actions with Jenkins
+[CI in actions with Jenkins](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/ci-in-action-with-jenkins?autoplay=true&resume=false&u=2154233)
 
 #### Build artifacts
 ##### Benefits of Artifacts
@@ -129,6 +120,11 @@ Example tools: Abao/RAML and Serverspec
 - End-toend (E2E) testing: Performed to excercise the full flow of your application in the same way an end user would
 - Security testing: Performed to look for flaws in your code and runtime to prevent compromises ans leaking of data in production
 - Shift left: Move testing early as possible in the development process, ideally to the dev desktop
+- Text fixture: A set objects used to run a test in a well-known environment
+- System under test (SUT): The application and system on wich you are running your test
+- Cycle time: The time from when an item (feature or bug fix) is worked on until it is delivered into production
+- Lead time: The time taken from when an item (feature or bug fix) is requested until it is delivered into production
+- Mock: Code designed to stand in for a piece of code that contains dependencies to enable unit tests
 
 #### Testing philosophy
 
