@@ -88,6 +88,9 @@ git show "commit ideas"
 ##### Use notifications to update your build progress
 
 #### CI in actions with Jenkins
+##### CI system looks like in practice. For that, we're going to use Jenkins
+##### Jenkins is a free, open-source tool (It´s written in Java so it runs on any platform from Linux to Windows to Mac)
+[Jenkins](https://jenkins.io/download/)
 [CI in actions with Jenkins](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/ci-in-action-with-jenkins?autoplay=true&resume=false&u=2154233)
 
 #### Build artifacts
@@ -136,6 +139,10 @@ Example tools: Abao/RAML and Serverspec
 - Customer satistafaction - how well a product/service met the customer's needs. NPS scores and bug reports work well here
 
 #### Unit testing in action
+##### Whit good unit testing practices, a safety is built up around your code, making changes in the future a breeze. Additionally, they build confidence in development team to deliver faster
+##### For Go, I can use GoConvey it's easy setup and works with the native Go testing package
+##### Mocks are way to test with fake data for a provider
+[Unit testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/unit-testing-in-action?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Application deploy and release
 
