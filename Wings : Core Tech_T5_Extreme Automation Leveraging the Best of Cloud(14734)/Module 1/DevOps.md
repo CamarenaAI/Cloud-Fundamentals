@@ -174,6 +174,17 @@ Example tools: Abao/RAML and Serverspec
 ##### UI testting has it's advantages and disadvantages. On the one hand, it totally simulates the user experience on a UI application. Level of testing below it just aren't complete. But one the other hand it's slow and usually pretty touchy UI tests requiere a lot of mainteance in the face of app changes
 - Regression testing: A test conducted to verify that software that was previously developed and tested still performs the same way after it is changed or iterfaced with other software
 - Acceptance testing: A test to determine whether the requirements of a specification or contract have been met
+
 [Linkedin: UI testing in action with Robot](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/ui-testing-in-action-with-robot?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Security testing in action with gauntlt
+##### The main types of tests are static and dynamic
+- Dynamic Security Testing
+    - Pros
+        - Test actual attack payloads
+        - Collaboration between Dev, Sec, and Ops
+    - Cons
+        - Requires system to be running
+        - Can be slow    
+        
+[Linkedin: Security testing in action with gauntlt](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/security-testing-in-action-with-gauntlt?autoSkip=true&autoplay=true&resume=false&u=2154233)
