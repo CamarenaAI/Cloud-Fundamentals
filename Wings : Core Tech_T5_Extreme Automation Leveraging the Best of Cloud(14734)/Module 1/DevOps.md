@@ -17,7 +17,7 @@
 - Basic understanding of coded applications
 
 #### Following along with the demos
-[DevOps Foundations: Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/following-along-with-the-demos?autoSkip=true&autoplay=true&resume=false&u=2154233)
+[Linkedin: DevOps Foundations: Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/following-along-with-the-demos?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 ## 1. Continuous Integration and Continuous Delivery
 #### DevOps core concept: CI/CD
@@ -70,7 +70,7 @@ git log
 git show "commit ideas"
 ```
 ###### I'll just change the project description in the readme. I'll open them to edit the readme file and type
-[Version control in action with Git](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/version-control-in-action-with-git?autoplay=true&resume=false&u=2154233)
+[Linkedin: Version control in action with Git](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/version-control-in-action-with-git?autoplay=true&resume=false&u=2154233)
 
 #### Continuous integration systems
 - Open Source
@@ -90,8 +90,8 @@ git show "commit ideas"
 #### CI in actions with Jenkins
 ##### CI system looks like in practice. For that, we're going to use Jenkins
 ##### Jenkins is a free, open-source tool (It´s written in Java so it runs on any platform from Linux to Windows to Mac)
-[Jenkins](https://jenkins.io/download/)
-[CI in actions with Jenkins](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/ci-in-action-with-jenkins?autoplay=true&resume=false&u=2154233)
+[Download Jenkins](https://jenkins.io/download/)
+[Linkedin: CI in actions with Jenkins](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/ci-in-action-with-jenkins?autoplay=true&resume=false&u=2154233)
 
 #### Build artifacts
 ##### Benefits of Artifacts
@@ -142,7 +142,7 @@ Example tools: Abao/RAML and Serverspec
 ##### Whit good unit testing practices, a safety is built up around your code, making changes in the future a breeze. Additionally, they build confidence in development team to deliver faster
 ##### For Go, I can use GoConvey it's easy setup and works with the native Go testing package
 ##### Mocks are way to test with fake data for a provider
-[Unit testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/unit-testing-in-action?autoSkip=true&autoplay=true&resume=false&u=2154233)
+[Linkedin: Unit testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/unit-testing-in-action?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Application deploy and release
 ##### Deploy with
@@ -163,15 +163,17 @@ Example tools: Abao/RAML and Serverspec
 ![DevOps-img3](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img3.png?raw=true)
 
 #### Deployment in action with Chef
-[Deployment in action with Chef](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/deployment-in-action-with-chef?autoSkip=true&autoplay=true&resume=false&u=2154233)
+[Linkedin: Deployment in action with Chef](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/deployment-in-action-with-chef?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Integration testing in action with Abao
 - Integration testing: Testing performed to expose defects in the interfaces and in the interactions between integrated components or systems
 ##### Don't mix your unit tests with your integration test
-[Integration testing in action with Abao](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/integration-testing-in-action-with-abao?autoSkip=true&autoplay=true&resume=false&u=2154233)
+[Linkedin: Integration testing in action with Abao](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/integration-testing-in-action-with-abao?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### UI testing in action with Robot
-
+##### UI testting has it's advantages and disadvantages. On the one hand, it totally simulates the user experience on a UI application. Level of testing below it just aren't complete. But one the other hand it's slow and usually pretty touchy UI tests requiere a lot of mainteance in the face of app changes
+- Regression testing: A test conducted to verify that software that was previously developed and tested still performs the same way after it is changed or iterfaced with other software
+- Acceptance testing: A test to determine whether the requirements of a specification or contract have been met
+[Linkedin: UI testing in action with Robot](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/ui-testing-in-action-with-robot?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Security testing in action with gauntlt
-
