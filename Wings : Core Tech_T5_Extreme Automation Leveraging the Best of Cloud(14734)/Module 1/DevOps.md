@@ -160,8 +160,7 @@ Example tools: Abao/RAML and Serverspec
 - Build 
 - And any more
 ##### Product Update Deploys to Customer
-Debian Container -> Updated Server -> Rundeck Orchestration Server(Puppet Installation)
-![DevOps-img3(https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img3.png?raw=true)
+![DevOps-img3](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img3.png?raw=true)
 
 #### Deployment in action with Chef
 
