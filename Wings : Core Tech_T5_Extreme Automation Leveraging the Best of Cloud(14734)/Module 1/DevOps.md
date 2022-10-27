@@ -127,6 +127,13 @@ Example tools: Abao/RAML and Serverspec
 - Mock: Code designed to stand in for a piece of code that contains dependencies to enable unit tests
 
 #### Testing philosophy
+- Tets-driven development (TDD): The practice of wiritng a failing test first, and then writing the code that causes the test to pass
+- Behavior-driven development (BDD): The practice test in a simple end-user-behavior-centric language
+- Acceptance test-driven development (ATDD): The practice of agreeing on acceptance test before development to establish what is to be delivered
+##### The Big Three Testing Metrics
+- Cycle Time - time from the start of work to delivery
+- Velocity - value delivered per unit time
+- Customer satistafaction - how well a product/service met the customer's needs. NPS scores and bug reports work well here
 
 #### Unit testing in action
 
