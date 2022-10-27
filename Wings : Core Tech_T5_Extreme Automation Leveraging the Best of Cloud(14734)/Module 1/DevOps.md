@@ -1,18 +1,18 @@
 # DevOps Foundations: Continuous Delivery/Continuous Integration
 
 ## Introduction
-### Welcome
+#### Welcome
 | Continuous Integration | Continuous Deployment |
 | --- | --- |
 | The practice of automatically building and unit testing an entire application frequently, ideally on every source code check-in| The practice of automatically deploying every build to production after it passes its automated test |
 
-### What you should know
-#### DevOps Fundamentals
+#### What you should know
+##### DevOps Fundamentals
 - Infraestructure automation
 - Continuous delivery
 - Reliability engineering 
 
-#### Requeriments
+##### Requeriments
 - Bash (OS X Terminal, win-bash, and Linux)
 - Basic understanding of coded applications
 
@@ -137,6 +137,7 @@ Example tools: Abao/RAML and Serverspec
 - Cycle Time - time from the start of work to delivery
 - Velocity - value delivered per unit time
 - Customer satistafaction - how well a product/service met the customer's needs. NPS scores and bug reports work well here
+![DevOps-Img4](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img4.png?raw=true)
 
 #### Unit testing in action
 ##### Whit good unit testing practices, a safety is built up around your code, making changes in the future a breeze. Additionally, they build confidence in development team to deliver faster
@@ -188,3 +189,20 @@ Example tools: Abao/RAML and Serverspec
         - Can be slow    
         
 [Linkedin: Security testing in action with gauntlt](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/security-testing-in-action-with-gauntlt?autoSkip=true&autoplay=true&resume=false&u=2154233)
+
+## 3. Putting It All Together
+#### CI/CD best practices
+- **Each developer** is responsible for their check-in through deployment
+- **Small** changes. Build quality in
+- **Don´t** check in broken builds
+- **Automate** high-quality testing
+- Run tests **before** check-in
+- **Fix** flaky tests
+- **Don't** ignore or disable tests
+- **Automate** deployments
+- Keep the build and deploy **fast**
+##### Own Your Build
+- Take responsibility for your build
+- Immediately address a broken build
+- Revert if fixing takes time
+- No check-ins while the builds broken--the line stops
