@@ -153,7 +153,7 @@ Example tools: Abao/RAML and Serverspec
 ##### Separate Deploy and Release
 - Blue/green deployments
 - Feature flag
-##### Dployment Options
+##### Deployment Options
 - Source pulls
 - CM systems
 - Orchestration Systems
@@ -163,9 +163,15 @@ Example tools: Abao/RAML and Serverspec
 ![DevOps-img3](https://github.com/IsmaelCamna/WingsElevate-1/blob/main/Wings%20:%20Core%20Tech_T5_Extreme%20Automation%20Leveraging%20the%20Best%20of%20Cloud(14734)/Module%201/Img/DevOps-img3.png?raw=true)
 
 #### Deployment in action with Chef
+[Deployment in action with Chef](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/deployment-in-action-with-chef?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### Integration testing in action with Abao
+- Integration testing: Testing performed to expose defects in the interfaces and in the interactions between integrated components or systems
+##### Don't mix your unit tests with your integration test
+[Integration testing in action with Abao](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-2017/integration-testing-in-action-with-abao?autoSkip=true&autoplay=true&resume=false&u=2154233)
 
 #### UI testing in action with Robot
 
+
 #### Security testing in action with gauntlt
+
