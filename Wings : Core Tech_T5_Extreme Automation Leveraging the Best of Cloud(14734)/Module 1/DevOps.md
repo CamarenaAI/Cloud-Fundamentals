@@ -220,5 +220,7 @@ Example tools: Abao/RAML and Serverspec
 #### Next steps
 ##### Watch some of the other DevOps courses
 [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations?u=2154233)
+
 [DevOps Foundations: Infrastructure Automation](https://www.linkedin.com/learning/devops-foundations-devsecops-17416896?u=2154233)
+
 [testing.googleblog.com](testing.googleblog.com)
