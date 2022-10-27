@@ -206,3 +206,12 @@ Example tools: Abao/RAML and Serverspec
 - Immediately address a broken build
 - Revert if fixing takes time
 - No check-ins while the builds broken--the line stops
+
+#### Continuous delivery in real life
+- The most important thing to watch is total cycle time
+- You'll need to balance the benefits of fast feedback with the speed of a single build
+##### Problems in real life
+- Builds are not reliable
+- Quality goes down
+- Deploys take a long time
+- There will be tradeoffs
