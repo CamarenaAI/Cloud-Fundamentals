@@ -45,3 +45,12 @@ AWS recommends that you secure the root account by using a **physical multi-fact
 ##### AWS Recommends
 - Physical MFA (root) - Using the physical MFA key for the AWS root account
 - Virtual MFA (IAM user) - Using the virtual MFA option to secure your individual IAM user account 
+
+#### Create an IAM user
+-
+-
+-
+-
+-
+-
+[Linkedin: Create an IAM user](https://www.linkedin.com/learning/aws-essential-training-for-developers/create-an-iam-user?autoplay=true&trk=learning-course_tocItem&upsellOrderOrigin=guest_homepage-basic_guest_nav_menu_learning)
