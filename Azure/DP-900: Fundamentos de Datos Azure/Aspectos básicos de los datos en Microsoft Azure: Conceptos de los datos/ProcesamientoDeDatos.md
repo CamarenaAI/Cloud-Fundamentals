@@ -49,3 +49,5 @@ previamente, las consultas para devolver los resumenes que contiene se pueden ej
 - Los _**científicos de datos**_ pueden trabajar directamente con archivos de datos en un lago de datos para explorar los datos y crear modelos a partir de estos
 - Los _**analistas de datos**_ pueden consultar tablas directamente en el almacenamiento de datos para generar informes y visualizaciones complejos
 - _**Los usuarios profesionales**_ pueden consumir datos agregados previamente en un modelo analítico como informes o paneles
+
+[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)

@@ -48,3 +48,5 @@ Hay cuatro tipo de bases de datos no relacionales que se usan habitualmente:
     - **Bases de datos de familia de columnas**: Almacenan datos tabulares con filas y columnas, pero con la posibilidad de dividir esas columnas en grupos
                                                  Cada familia de columnas contiene un conjunto de columnas que tienen una relación lógica entre sí
     - **Bases de datos de grafos**: Almacenan entidades como nodos con vínculos para definir relaciones entre ellas
+
+    [Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)

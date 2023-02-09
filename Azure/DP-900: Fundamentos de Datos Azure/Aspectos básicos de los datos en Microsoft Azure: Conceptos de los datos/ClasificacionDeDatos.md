@@ -19,3 +19,5 @@ Un formato común para los datos semiestructurados es JavaScript Object Notation
 Los datos que podrian no tener una estructura especifica \
 Este tipo de datos se les conoce como datos no estructurados \
 Por ejemplo: Los documentos, imágenes, datos de audio y de vídeo y archivos binarios
+
+[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
