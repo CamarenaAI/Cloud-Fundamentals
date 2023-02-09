@@ -15,7 +15,7 @@
 - Caracteristicas del procesamiento de datos transaccionales
 - Caracteristicas del procesamiento de datos analiticos
 
-### [Roles y Responsabilidades para el Procesamiento de Datos]()
+### [Roles y Responsabilidades para el Procesamiento de Datos](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Microsoft%20Azure:%20Conceptos%20de%20los%20datos/Roles%26ResponsabilidadesProcesamientoDeDatos.md)
 - Responsabilidades de un Administrador de Bases de Datos
 - Responsabilidades de un Ingeniero de Datos
 - Responsabilidades de un Analista de Datos
