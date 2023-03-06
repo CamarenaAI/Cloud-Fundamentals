@@ -37,11 +37,11 @@
 
 ## Describir las consideraciones para trabajar con datos no relacionales en Azure
 
-## [Describir las capacidades de Azure Storage]()
+## [Describir las capacidades de Azure Storage](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Azure:%20datos%20no%20relacionales%20en%20Azure/AzureStorage.md)
 - Azure Blob Storage
 - Azure File Storage
 - Azure Table Storage
 
-## [Describir las capacidades y características de Azure Cosmos DB]()
+## [Describir las capacidades y características de Azure Cosmos DB](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Azure:%20datos%20no%20relacionales%20en%20Azure/AzureCosmosDB.md)
 - Identificar casos de uso para Azure Cosmos DB
 - APIs de Azure Cosmos DB
