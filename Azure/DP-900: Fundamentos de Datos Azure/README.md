@@ -34,3 +34,14 @@
     - Azure SQL Managed Instance 
     - SQL Server en Azure Virtual Machines
 - Servicios de base de datos de Azure para sistemas de base de datos de código abierto
+
+## Describir las consideraciones para trabajar con datos no relacionales en Azure
+
+## [Describir las capacidades de Azure Storage]()
+- Azure Blob Storage
+- Azure File Storage
+- Azure Table Storage
+
+## [Describir las capacidades y características de Azure Cosmos DB]()
+- Identificar casos de uso para Azure Cosmos DB
+- APIs de Azure Cosmos DB
