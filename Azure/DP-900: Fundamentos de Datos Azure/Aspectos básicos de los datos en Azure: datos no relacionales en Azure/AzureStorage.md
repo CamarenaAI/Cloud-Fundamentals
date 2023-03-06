@@ -69,3 +69,5 @@ Permite almacenar datos semiestructurados. Todas las filas de una tabla deben te
 
 Los datos en Azure Table Storage se desnormalizan y cada fila contiene los datos completos de una entidad lógica, 
 Azure Table Storage divide una tabla en particiones, para agrupar filas relacionadas según una propiedad común o clave de partición
+
+[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
