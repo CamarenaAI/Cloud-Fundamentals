@@ -17,3 +17,5 @@ Admite varias APIs que permiten a los desarrolladores usar la semántica de prog
 - **Table**: Datos clave-valor, Recuperar datos de una tabla
 - **Cassandra**: Almacenamiento familia de columnas, Admite sintaxis basada en SQL
 - **Gremlim**: Estructura de grafos, Vertices forman nodos, Nodos se conectan mediante bordes
+
+[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
