@@ -37,11 +37,34 @@
 
 ## Describir las consideraciones para trabajar con datos no relacionales en Azure
 
-## [Describir las capacidades de Azure Storage](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Azure:%20datos%20no%20relacionales%20en%20Azure/AzureStorage.md)
+### [Describir las capacidades de Azure Storage](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Azure:%20datos%20no%20relacionales%20en%20Azure/AzureStorage.md)
 - Azure Blob Storage
 - Azure File Storage
 - Azure Table Storage
 
-## [Describir las capacidades y características de Azure Cosmos DB](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Azure:%20datos%20no%20relacionales%20en%20Azure/AzureCosmosDB.md)
+### [Describir las capacidades y características de Azure Cosmos DB](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Azure:%20datos%20no%20relacionales%20en%20Azure/AzureCosmosDB.md)
 - Identificar casos de uso para Azure Cosmos DB
 - APIs de Azure Cosmos DB
+
+## Describir una carga de trabajo de análisis en Azure
+
+### [Describir los elementos comunes del análisis a gran escala]()
+- Describir las consideraciones para la ingesta y el procesamiento de datos
+- Describir las opciones para los almacenes de datos analíticos
+- Servicios de Azure para el almacenamiento de datos:
+    - Azure Synapse Analytics
+    - Azure Databricks
+    - Azure HDInsight
+    - Azure Data Factory
+
+### [Describir la consideración para el análisis de datos en tiempo real](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Microsoft%20Azure:%20Exploraci%C3%B3n%20del%20an%C3%A1lisis%20de%20datos%20en%20Azure/AnalisisTiempoReal.md)
+- Describir la diferencia entre datos por lotes y datos de streaming
+- Tecnologías para análisis en tiempo real:
+    - Azure Stream Analytics
+    - Azure Synapse Data Explorer
+    - Spark structured streaming
+
+### [Describir la visualización de datos en Microsoft Power BI]()
+- Identificar las capacidades de Power BI
+- Describir las características de los modelos de datos en Power BI
+- Identificar visualizaciones apropiadas para los datos
