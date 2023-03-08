@@ -48,3 +48,5 @@ Este módulo utiliza la abstracción de "DataFrames" y "Datasets" de Spark para 
     Capacidad de manejar la tolerancia a fallos y garantizar que los datos se procesen correctamente incluso en caso de fallos en el sistema. \ Además, este módulo también admite una amplia gama de fuentes de datos y destinos, como Kafka, HDFS, S3, JDBC, entre otros \
 
     Spark Structured Streaming es un módulo de procesamiento en tiempo real altamente escalable y tolerante a fallos que permite procesar y transformar datos de flujo continuo con la misma API que se utiliza para procesar datos estáticos. Esto permite a los usuarios trabajar con datos de streaming en tiempo real de manera más eficiente y sencilla
+
+[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
