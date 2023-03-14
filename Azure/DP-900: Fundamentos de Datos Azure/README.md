@@ -48,7 +48,7 @@
 
 ## Describir una carga de trabajo de análisis en Azure
 
-### [Describir los elementos comunes del análisis a gran escala]()
+### [Describir los elementos comunes del análisis a gran escala](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Microsoft%20Azure:%20Exploraci%C3%B3n%20del%20an%C3%A1lisis%20de%20datos%20en%20Azure/AnalisisGranEscala.md)
 - Describir las consideraciones para la ingesta y el procesamiento de datos
 - Describir las opciones para los almacenes de datos analíticos
 - Servicios de Azure para el almacenamiento de datos:
@@ -64,7 +64,7 @@
     - Azure Synapse Data Explorer
     - Spark structured streaming
 
-### [Describir la visualización de datos en Microsoft Power BI]()
+### [Describir la visualización de datos en Microsoft Power BI](https://github.com/CamarenaAI/Cloud-Fundamentals/blob/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure/Aspectos%20b%C3%A1sicos%20de%20los%20datos%20en%20Microsoft%20Azure:%20Exploraci%C3%B3n%20del%20an%C3%A1lisis%20de%20datos%20en%20Azure/PowerBI.md)
 - Identificar las capacidades de Power BI
 - Describir las características de los modelos de datos en Power BI
 - Identificar visualizaciones apropiadas para los datos
