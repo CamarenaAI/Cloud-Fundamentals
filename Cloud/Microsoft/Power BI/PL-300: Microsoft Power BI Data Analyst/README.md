@@ -2,19 +2,19 @@
 
 ## Preparar los datos
 
-### [Obtener datos desde orígenes de datos](Microsoft/Power BI/PL-300: Microsoft Power BI Data Analyst/Preparar los datos/ObtenerDatos.md)
+### [Obtener datos desde orígenes de datos](../PL-300:%20Microsoft%20Power%20BI%20Data%20Analyst/Preparar%20los%20datos/ObtenerDatos.md)
 - Identificar un origen de datos y conectarse a él
 - Cambiar la configuración del origen de datos, incluidas las credenciales, los niveles de privacidad y las ubicaciones del origen de datos
 - Selección de un modelo semántico compartido o creación de un modelo de datos local
 - Elegir entre DirectQuery, Importar y modo dual
 - Cambiar el valor en un parámetro
 
-## [Limpieza de los datos](Microsoft/Power BI/PL-300: Microsoft Power BI Data Analyst/Preparar los datos/LimpiarDatos.md)
+## [Limpieza de los datos](../PL-300:%20Microsoft%20Power%20BI%20Data%20Analyst/Preparar%20los%20datos/LimpiarDatos.md)
 - Evaluar datos, incluidas las estadísticas de datos y las propiedades de columna
 - Resolver incoherencias, valores inesperados o NULL e incidencias de calidad de los datos
 - Resolver errores de importación de datos
 
-## [Transformar y cargar datos](Microsoft/Power BI/PL-300: Microsoft Power BI Data Analyst/Preparar los datos/TransformarCargarDatos.md)
+## [Transformar y cargar datos](../PL-300:%20Microsoft%20Power%20BI%20Data%20Analyst/Preparar%20los%20datos/TransformarCargarDatos.md)
 - Seleccionar los tipos de datos de columna adecuados
 - Crear y transformar columnas
 - Transformar una consulta
