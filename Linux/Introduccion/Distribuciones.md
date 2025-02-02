@@ -1,16 +1,18 @@
-# Distribución Linux
+# Distribuciones
 
-Conunto de programas y aplicaciones agrupados y distribuidos como un único sistema operativo.
+## Distribución Linux
+
+Conjunto de programas y aplicaciones agrupados y distribuidos como un único sistema operativo.
 
 Distro / Flavor = Distribución
 
-# Nucleo de Linux (Kernel)
+## Núcleo de Linux (Kernel)
 
-El kernel es el corazon del sistema operativo, es la capa que se situa entre el hardware y las aplicaciones. Dicho de otro modo es el intermediario entre el software y el hardware.
+El kernel es el corazón del sistema operativo, es la capa que se sitúa entre el hardware y las aplicaciones. Dicho de otro modo, es el intermediario entre el software y el hardware.
 
-Kernel + Aplicaciones = Distro (Disctribución)
+Kernel + Aplicaciones = Distro (Distribución)
 
-# Distribuciones de Linux mas utilizadas
+## Distribuciones de Linux más utilizadas
 - RedHat Enterprise Linux (RHEL) popular en:
     - Instituciones financiares
     - Empresas de transporte
@@ -23,10 +25,10 @@ Kernel + Aplicaciones = Distro (Disctribución)
     - Empresas pequeñas y agiles basadas en la web
     - Empresas del tipo software como servicio (Software as a Service)
     - Sitios de redes sociales
-    - Pequeñas tiendas de comercio electronico
-    - Empresas que dependen en gran medida de la computacion en la nube
+    - Pequeñas tiendas de comercio electrónico
+    - Empresas que dependen en gran medida de la computación en la nube
 
-# Otras distribuciones de Linux
+## Otras distribuciones de Linux
 
 - Linux Mint
 - Manjaro
