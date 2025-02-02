@@ -55,3 +55,10 @@ Las aplicaciones que no son parte del sistema operativo pueden instalarse en:
     /opt/apache/logs
 
 A partir de ahí tendrá su propia estructura de subdirectorios.
+
+
+Notas adicionales:
+
+- **/proc** y **/sys** son directorios virtuales que no almacenan archivos reales, sino que proporcionan información en tiempo real sobre el sistema y el hardware.
+- **/opt** y **/usr/local** se usan para instalar software adicional sin afectar los paquetes del sistema.
+- **/var** almacena datos que cambian constantemente, como logs y bases de datos.
