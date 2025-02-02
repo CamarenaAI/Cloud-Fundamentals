@@ -1,4 +1,4 @@
-# 📌 Tech-Prep-Hub  
+# 📌 TechNotes-Hub  
 📚 *Repositorio de documentación y notas sobre Big Data, IA, Sistemas Embebidos, Cloud y más.*
 
 ---
