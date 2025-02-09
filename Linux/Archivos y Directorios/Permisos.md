@@ -4,13 +4,13 @@
     drwxr-xr-x 2 admin users 4096 Jan 28 13:54 Azure
     lrwxrwxrwx 1 admin users 20 oct 15 12:00 enlace_documento.txt
 
-| Simbolo    | Tipo                |
+| Símbolo    | Tipo                |
 | :--------- | :------------------ |
 | `-`        | Archivo regular     |
 | `d`        | Directorio          |
-| `l`        | Enlace simbolico    |
+| `l`        | Enlace simbólico    |
 
-| Simbolo    | Permisos    |
+| Símbolo    | Permisos    |
 | :--------- | :---------- |
 | `r`        | Leer        |
 | `w`        | Escribir    |
@@ -24,9 +24,9 @@
 | `Escribir (w)`        | Permite modificar un archivo            | Permite modificar entradas dentro del directorio               |
 | `Ejecutar (x)`        | Permite la ejecución de un archivo      | Permite el acceso a los contenidos y metadatos de las entradas |
 
-## Categorias de permisos
+## Categorías de permisos
 
-| Simbolo    | Categoria    |
+| Símbolo    | Categoría    |
 | :--------- | :----------- |
 | `u`        | Usuario      |
 | `g`        | Grupo        |
@@ -35,17 +35,17 @@
 
 ## Grupos
 
-Son usados para organizar a los usuarios. Los usuarios pertenecen al menos a un grupo pero pueden pertenecer a otros grupos
+Son usados para organizar a los usuarios. Los usuarios pertenecen al menos a un grupo, pero pueden pertenecer a otros grupos.
 
-Los siguientes comandos muestran los grupos del usuario
+Los siguientes comandos muestran los grupos del usuario:
 - **groups**
 - **id -Gn**
 
-##  
+##  Identificar permisos y categorías a las que pertenece un archivo, directorio o enlace
 
 | Tipo                  | Usuario  | Grupo    | Otro     |
 | :-------------------- | :----    | :------- | :------- |
-| `-` `,` `d` `,` `l`   | **rw-**  | **r--**  | **r--**  |
+| `-` , `d` , `l`   | **rw-**  | **r--**  | **r--**  |
 
 ## Cambiar permisos
 - **chmod**: Permite cambiar los permisos en archivos y directorios.
@@ -53,7 +53,7 @@ Los siguientes comandos muestran los grupos del usuario
 - **-**: Quitar permiso.
 - **=**: Establecer permiso.
 
-| Octal   | Binario  | Caracter   | Descripcion                    |
+| Octal   | Binario  | Carácter   | Descripción                    |
 | :------ | :------- | :--------- | :----------------------------- |
 | `0`     | `0`      | `---`      | Sin permisos                   |
 | `1`     | `1`      | `--x`      | Solo ejecutar                  |
@@ -64,9 +64,20 @@ Los siguientes comandos muestran los grupos del usuario
 | `6`     | `110`    | `rw-`      | Lectura y Escritura            |
 | `7`     | `111`    | `rwx`      | Lectura, Escritura y Ejecutar  |
 
-Ejemplo de como cambiar los permisos usando **chmod** con **caracteres** y en **octal**
+Ejemplo de cómo cambiar los permisos usando **chmod** con **caracteres** y en **octal**:
 
     chmod u=rwx,g=rx,o=rx Documents
 
     chmod 755 Documents
 
+## **chgrp**
+Cuando se crea un archivo, su grupo se establece en el grupo principal.
+- **chgrp**: Cambia el grupo de un archivo.
+
+
+## Mascara (Mask)
+La máscara (mask) es lo que determina los permisos que recibirá el archivo cuando se crea.
+
+Funciona de manera inversa al comando **chmod**. 
+- **umask**: Establece la máscara (mask) de creación de archivos en el modo que los pases.
+    - **umask -S**: Mostrara y aceptara la notación simbólica.
