@@ -70,7 +70,7 @@ Ejemplo de cómo cambiar los permisos usando **chmod** con **caracteres** y en *
 
     chmod 755 Documents
 
-## **chgrp**
+## **Comando chgrp**
 Cuando se crea un archivo, su grupo se establece en el grupo principal.
 - **chgrp**: Cambia el grupo de un archivo.
 
