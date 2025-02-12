@@ -14,4 +14,6 @@ Son **contenedores** para otros archivos o directorios, proporcionan una estruct
 ## Crear y remover directorios
 - **mkdir**: Crea un directorio. 
 - **rmdir**: Elimina un directorio.
+- **touch**: Crea un archivo.
+- **rm**: Elimina un archivo.
 - **rm -rf**: Elimina recursivamente todo en ese directorio.
